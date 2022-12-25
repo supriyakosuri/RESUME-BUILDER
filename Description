@@ -1,0 +1,5 @@
+In this we need libraries like Mtplotlib,pyqrcode,png
+pyqrcode is the library which is used for the generating QR code for the script and using png is the code will be genrated as PNG format so that it can be added to the
+RESUME if needed 
+Matplot is used to create the background of the text for creating the resume by specifying the axis with color
+Final resume can be downloaded as the doc, pdf, or png formats
